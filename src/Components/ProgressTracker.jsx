@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function ProgressTracker() {
+export default function ProgressTracker({tasks}) {
   return (
     <div>
-      <h1>Progress Tracker</h1>
+
     </div>
   )
 }
