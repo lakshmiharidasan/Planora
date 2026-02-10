@@ -1,16 +1,46 @@
-# React + Vite
+# 📋 Planora — React-Based Task Planner Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Planora is a responsive task planner web application built with React that helps users create, edit, delete, and track daily tasks through a clean and intuitive interface. The app focuses on usability, smooth visual design, and persistent task management.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create, edit, and delete tasks easily
+- Track task completion with an interactive UI
+- Persistent task storage using localStorage
+- Responsive design for desktop and mobile devices
+- Custom CSS styling with vibrant colors and gradient animations
+- Smooth subtitle transition effects for enhanced user experience
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- HTML
+- CSS
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://lakshmiharidasan.github.io/Planora/
+
+## 📂 Project Overview
+
+Planora is built using modern React functional components and hooks for efficient state management. Tasks are stored locally in the browser using localStorage to ensure persistence across sessions. The UI is fully custom-designed using CSS with a vibrant color palette and animated elements.
+
+
+
+## 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- React functional component architecture
+- State management using React hooks
+- Persistent client-side data storage
+- Responsive UI design principles
+- Frontend animation and styling techniques
+
+## 📌 Future Improvements
+
+- Task categorization and filtering
+- Due dates and reminders
+- Drag-and-drop task organization
+
